@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tomkoller86.github.io/tkopage/sitemap.xml

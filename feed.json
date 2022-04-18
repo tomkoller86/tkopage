@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Tom Koller // Digital Creative Director",
+    "description": "",
+    "home_page_url": "https://tomkoller86.github.io/tkopage",
+    "feed_url": "https://tomkoller86.github.io/tkopage/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Tom Koller"
+    },
+    "items": [
+        {
+            "id": "https://tomkoller86.github.io/tkopage/test-post.html",
+            "url": "https://tomkoller86.github.io/tkopage/test-post.html",
+            "title": "Test-Post",
+            "content_html": "\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://tomkoller86.github.io/tkopage/media/posts/1/gallery/milad-fakurian-2sICkGsJRQY-unsplash.jpg\" data-size=\"2400x1823\">\n        <img loading=\"lazy\" src=\"https://tomkoller86.github.io/tkopage/media/posts/1/gallery/milad-fakurian-2sICkGsJRQY-unsplash-thumbnail.jpg\" height=\"583\" width=\"768\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tomkoller86.github.io/tkopage/media/posts/1/gallery/rodion-kutsaev-0d2zObuClQI-unsplash.jpg\" data-size=\"2400x1371\">\n        <img loading=\"lazy\" src=\"https://tomkoller86.github.io/tkopage/media/posts/1/gallery/rodion-kutsaev-0d2zObuClQI-unsplash-thumbnail.jpg\" height=\"439\" width=\"768\" alt=\"\" />\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://tomkoller86.github.io/tkopage/media/posts/1/gallery/sebastian-svenson-LpbyDENbQQg-unsplash.jpg\" data-size=\"2400x1350\">\n        <img loading=\"lazy\" src=\"https://tomkoller86.github.io/tkopage/media/posts/1/gallery/sebastian-svenson-LpbyDENbQQg-unsplash-thumbnail.jpg\" height=\"432\" width=\"768\" alt=\"\" />\n      </a>\n      \n    </figure>\n    </div>\n  </div>",
+            "image": "https://tomkoller86.github.io/tkopage/media/posts/1/sebastian-svenson-LpbyDENbQQg-unsplash.jpg",
+            "author": {
+                "name": "Tom Koller"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-04-18T21:27:04+02:00",
+            "date_modified": "2022-04-18T21:33:09+02:00"
+        }
+    ]
+}

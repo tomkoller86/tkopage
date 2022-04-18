@@ -1,2 +1,0 @@
-# tkopage
-Creative Portfolio
