@@ -1,14 +1,114 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Tom Koller // Digital Creative Director</title>
+    <title>Tom Koller</title>
     <link href="https://tomkoller86.github.io/tkopage/feed.xml" rel="self" />
     <link href="https://tomkoller86.github.io/tkopage" />
-    <updated>2022-04-18T21:33:09+02:00</updated>
+    <updated>2022-04-19T00:14:13+02:00</updated>
     <author>
         <name>Tom Koller</name>
     </author>
     <id>https://tomkoller86.github.io/tkopage</id>
 
+    <entry>
+        <title>Test Post 2</title>
+        <author>
+            <name>Tom Koller</name>
+        </author>
+        <link href="https://tomkoller86.github.io/tkopage/test-post-2.html"/>
+        <id>https://tomkoller86.github.io/tkopage/test-post-2.html</id>
+            <category term="UX/UI"/>
+
+        <updated>2022-04-19T00:14:13+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://tomkoller86.github.io/tkopage/media/posts/3/hans-eiskonen-8Pm_A-OHJGg-unsplash.jpg" alt="" />
+                    
+  <div  class="gallery-wrapper gallery-wrapper--full">
+    <div class="gallery" data-columns="2">
+      <figure class="gallery__item">
+      <a href="https://tomkoller86.github.io/tkopage/media/posts/3/gallery/hans-eiskonen-8Pm_A-OHJGg-unsplash.jpg" data-size="2400x2400">
+        <img loading="lazy" src="https://tomkoller86.github.io/tkopage/media/posts/3/gallery/hans-eiskonen-8Pm_A-OHJGg-unsplash-thumbnail.jpg" height="768" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://tomkoller86.github.io/tkopage/media/posts/3/gallery/jean-philippe-delberghe-75xPHEQBmvA-unsplash.jpg" data-size="2400x3600">
+        <img loading="lazy" src="https://tomkoller86.github.io/tkopage/media/posts/3/gallery/jean-philippe-delberghe-75xPHEQBmvA-unsplash-thumbnail.jpg" height="1152" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://tomkoller86.github.io/tkopage/media/posts/3/gallery/michael-dziedzic-nbW-kaz2BlE-unsplash.jpg" data-size="2400x1500">
+        <img loading="lazy" src="https://tomkoller86.github.io/tkopage/media/posts/3/gallery/michael-dziedzic-nbW-kaz2BlE-unsplash-thumbnail.jpg" height="480" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://tomkoller86.github.io/tkopage/media/posts/3/gallery/milad-fakurian-2sICkGsJRQY-unsplash.jpg" data-size="2400x1823">
+        <img loading="lazy" src="https://tomkoller86.github.io/tkopage/media/posts/3/gallery/milad-fakurian-2sICkGsJRQY-unsplash-thumbnail.jpg" height="583" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://tomkoller86.github.io/tkopage/media/posts/3/gallery/milad-fakurian-PGdW_bHDbpI-unsplash-1.jpg" data-size="2400x1800">
+        <img loading="lazy" src="https://tomkoller86.github.io/tkopage/media/posts/3/gallery/milad-fakurian-PGdW_bHDbpI-unsplash-1-thumbnail.jpg" height="576" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://tomkoller86.github.io/tkopage/media/posts/3/gallery/mymind-wHJ5L9KGTl4-unsplash.jpg" data-size="2400x3600">
+        <img loading="lazy" src="https://tomkoller86.github.io/tkopage/media/posts/3/gallery/mymind-wHJ5L9KGTl4-unsplash-thumbnail.jpg" height="1152" width="768" alt="" />
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://tomkoller86.github.io/tkopage/media/posts/3/hans-eiskonen-8Pm_A-OHJGg-unsplash.jpg" alt="" />
+                
+  <div  class="gallery-wrapper gallery-wrapper--full">
+    <div class="gallery" data-columns="2">
+      <figure class="gallery__item">
+      <a href="https://tomkoller86.github.io/tkopage/media/posts/3/gallery/hans-eiskonen-8Pm_A-OHJGg-unsplash.jpg" data-size="2400x2400">
+        <img loading="lazy" src="https://tomkoller86.github.io/tkopage/media/posts/3/gallery/hans-eiskonen-8Pm_A-OHJGg-unsplash-thumbnail.jpg" height="768" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://tomkoller86.github.io/tkopage/media/posts/3/gallery/jean-philippe-delberghe-75xPHEQBmvA-unsplash.jpg" data-size="2400x3600">
+        <img loading="lazy" src="https://tomkoller86.github.io/tkopage/media/posts/3/gallery/jean-philippe-delberghe-75xPHEQBmvA-unsplash-thumbnail.jpg" height="1152" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://tomkoller86.github.io/tkopage/media/posts/3/gallery/michael-dziedzic-nbW-kaz2BlE-unsplash.jpg" data-size="2400x1500">
+        <img loading="lazy" src="https://tomkoller86.github.io/tkopage/media/posts/3/gallery/michael-dziedzic-nbW-kaz2BlE-unsplash-thumbnail.jpg" height="480" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://tomkoller86.github.io/tkopage/media/posts/3/gallery/milad-fakurian-2sICkGsJRQY-unsplash.jpg" data-size="2400x1823">
+        <img loading="lazy" src="https://tomkoller86.github.io/tkopage/media/posts/3/gallery/milad-fakurian-2sICkGsJRQY-unsplash-thumbnail.jpg" height="583" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://tomkoller86.github.io/tkopage/media/posts/3/gallery/milad-fakurian-PGdW_bHDbpI-unsplash-1.jpg" data-size="2400x1800">
+        <img loading="lazy" src="https://tomkoller86.github.io/tkopage/media/posts/3/gallery/milad-fakurian-PGdW_bHDbpI-unsplash-1-thumbnail.jpg" height="576" width="768" alt="" />
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://tomkoller86.github.io/tkopage/media/posts/3/gallery/mymind-wHJ5L9KGTl4-unsplash.jpg" data-size="2400x3600">
+        <img loading="lazy" src="https://tomkoller86.github.io/tkopage/media/posts/3/gallery/mymind-wHJ5L9KGTl4-unsplash-thumbnail.jpg" height="1152" width="768" alt="" />
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+
+
+    <figure class="post__image post__image--wide">
+      <img loading="lazy" src="https://tomkoller86.github.io/tkopage/media/posts/3/rodion-kutsaev-0d2zObuClQI-unsplash.jpg" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://tomkoller86.github.io/tkopage/media/posts/3/responsive/rodion-kutsaev-0d2zObuClQI-unsplash-xs.jpg 384w ,https://tomkoller86.github.io/tkopage/media/posts/3/responsive/rodion-kutsaev-0d2zObuClQI-unsplash-sm.jpg 600w ,https://tomkoller86.github.io/tkopage/media/posts/3/responsive/rodion-kutsaev-0d2zObuClQI-unsplash-md.jpg 768w ,https://tomkoller86.github.io/tkopage/media/posts/3/responsive/rodion-kutsaev-0d2zObuClQI-unsplash-lg.jpg 1200w ,https://tomkoller86.github.io/tkopage/media/posts/3/responsive/rodion-kutsaev-0d2zObuClQI-unsplash-xl.jpg 1600w"  height="1371" width="2400" alt="" />
+      <figcaption>This is a caption</figcaption>
+    </figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Test-Post</title>
         <author>
@@ -16,8 +116,9 @@
         </author>
         <link href="https://tomkoller86.github.io/tkopage/test-post.html"/>
         <id>https://tomkoller86.github.io/tkopage/test-post.html</id>
+            <category term="Campaign"/>
 
-        <updated>2022-04-18T21:33:09+02:00</updated>
+        <updated>2022-04-19T00:09:45+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
